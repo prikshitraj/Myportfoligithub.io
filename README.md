@@ -36,12 +36,6 @@ This portfolio website is designed to highlight my abilities and experiences as 
 - Bootstrap 4.5
 - JavaScript
 
-## Setup
 
-To set up and run this portfolio website locally, follow these steps:
 
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/portfolio-website.git
    
